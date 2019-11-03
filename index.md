@@ -10,3 +10,5 @@ Guidelines and rules for **Git** in my repositories.
                                                           commit
   * [2.2 Commit Messages](./commits/messages.md): &nbsp; How to write and format
                                                           commit messages
+    * [2.2.1 Merge Commits](./commits/messages/merge-commits.md):
+       &nbsp; How to write merge commit messages

@@ -42,3 +42,5 @@ A lengthy description of what changed and why the change was made is not
  necessary since the referenced issue will already have described why the
  problem needs to be fixed.
 
+* [Merge Commits](./messages/merge-commits.md): &nbsp; How to write merge commit
+                                                        messages
