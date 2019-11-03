@@ -7,7 +7,7 @@ Previous: [Commit Contents](./contents.md),
  &nbsp; \[[Contents](../index.md)\]
 
 There are some well established conventions for **Git** messages. A good summary
- of them can be found [here](https://chris.beams.io/posts/git-commit).
+ of them can be found [here][how-to-write-a-git-commit-message].
 
 * The subject line should be capitalized (like in a sentence)
 * The subject line should not exceed 50 characters
@@ -44,3 +44,5 @@ A lengthy description of what changed and why the change was made is not
 
 * [Merge Commits](./messages/merge-commits.md): &nbsp; How to write merge commit
                                                         messages
+
+[how-to-write-a-git-commit-message]: https://chris.beams.io/posts/git-commit "How to Write a Git Commit Message – chris.beams.io"
