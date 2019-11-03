@@ -1,6 +1,7 @@
 # 2.1 Commit Contents #
 
-Previous: [Commits](../commits.md),
+Next: [Commit Messages](./messages.md),
+ Previous: [Commits](../commits.md),
  Up: [Commits](../commits.md)
  &nbsp; \[[Contents](../index.md)\]
 
