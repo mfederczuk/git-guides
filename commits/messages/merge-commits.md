@@ -9,7 +9,7 @@ Instead of using **Git**'s default commit messages for merging branches, merge
 
 	Merge in feature <feature name>
 
-So when having a feature branch called `feature/cool-new-thing`, the merge
+So when having a feature branch called "`feature/cool-new-thing`", the merge
  commit message could look something like this:
 
 	Merge in feature cool new thing
