@@ -1,0 +1,16 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - index.md
+  - overview.md
+  - commits.md
+  - commits/contents.md
+  - commits/messages.md
+  - commits/messages/merge-commits.md
+  - branches.md
+
+theme: jekyll-theme-midnight
