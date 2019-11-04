@@ -12,3 +12,4 @@ Guidelines and rules for **Git** in my repositories.
                                                           commit messages
     * [2.2.1 Merge Commits](./commits/messages/merge-commits.md):
        &nbsp; How to write merge commit messages
+* [3 Branches](./branches.md): &nbsp; The branching system
