@@ -19,6 +19,16 @@ Every commit in master branches (except the initial commit) represents a new
  release. All of these commits should also be merge commits and they should also
  be tagged with the version name.  
 
+It's sometimes useful to refer to the initial commit of a branch, specifically
+ the master branch. Sadly, there is so quick and easy way to refer to the
+ initial commit.  
+This is why the master branch can have a tag that point towards the initial
+ commit, called "`TAIL`".  
+If for whatever reason, there is more than one initial commit in the repository
+ (branches with no unrelated histories), then the tags should have an underscore
+ and the name of the branch as a suffix.
+ (e.g.: `TAIL_master`, `TAIL_new-master`, `TAIL_docs`, ...)
+
 A typical master branch could look something like this:
 
 	* (tag: v2.1.0, master) Release v2.1.0
@@ -31,7 +41,7 @@ A typical master branch could look something like this:
 	|
 	* (tag: v0.1.0) Release v0.1.0
 	|
-	* Initial commit
+	* (tag: TAIL) Initial commit
 
 ## The development branch ##
 
